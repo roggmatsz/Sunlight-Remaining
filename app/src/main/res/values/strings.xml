@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sunlight Remaining</string>
+    <string name="action_settings">Settings</string>
+    <string name="progress_dialog_title">Fetching Sun Data</string>
+    <string name="main_success_snackbar_message">Data has been refreshed</string>
+</resources>
